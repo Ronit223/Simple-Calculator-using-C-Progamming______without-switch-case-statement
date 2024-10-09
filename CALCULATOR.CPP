@@ -1,14 +1,14 @@
-//WAP that access two numbers and an operator;then display the result of addition , substraction , multiplication and division based on the operator.
+
 
 #include<stdio.h>
-#include<conio.h>
+#include<conio.h> //*
 
 void main()
 
 {
  int a , b , c ,r , r0 , r_store = 0 , i , r1, counts = 0;
  char operatr;
- clrscr();
+ clrscr(); // *
  printf("Enter First Number: ");
  scanf("%d", &a);
  printf("Enter Second Number: ");
@@ -29,7 +29,7 @@ void main()
    printf("%d / 0 = Not defined",a);
   else
    printf("%d / %d = %f",a,b,(float)a/b);
- getch();
+ getch(); // *
 
 
 }
