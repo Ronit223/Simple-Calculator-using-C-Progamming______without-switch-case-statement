@@ -1,4 +1,4 @@
-# Simple-Calculator-using-C-Progamming______without-switch-case-statement
+# Simple-Calculator-using-C-Programming______without-switch-case-statement
 
 Heading tells the all things about what we get from this code. Just use the source code in Turbo c++ and enjoy it.
 
