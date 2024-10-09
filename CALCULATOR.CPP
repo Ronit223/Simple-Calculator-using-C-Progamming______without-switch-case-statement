@@ -6,7 +6,7 @@
 void main()
 
 {
- int a , b , c ,r , r0 , r_store = 0 , i , r1, counts = 0;
+ int a , b , c ,r ;
  char operatr;
  clrscr(); // *
  printf("Enter First Number: ");
