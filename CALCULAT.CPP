@@ -26,7 +26,7 @@ void main()
   if ( b == 0 )
    printf("%d / 0 = Not defined", a);
     
-git init  else if ( a%b == 0 )
+  else if ( a%b == 0 )
    printf("%d / %d = %d ", a,b,a/b);
 
 
